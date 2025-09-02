@@ -26,7 +26,7 @@ def main():
 ░ ▒░   ░  ░░▒▓▒ ▒ ▒ ░ ▒░▓  ░░ ▒░▓  ░░ ▐░   ▒▒   ▓▒█░ ▒▒▓  ▒ 
 ░  ░      ░░░▒░ ░ ░ ░ ░ ▒  ░░ ░ ▒  ░░ ░░    ▒   ▒▒ ░ ░ ▒  ▒ 
 ░      ░    ░░░ ░ ░   ░ ░     ░ ░     ░░    ░   ▒    ░ ░  ░ 
-       ░      ░         ░  ░    ░  ░   ░        ░  ░   ░    By Amex
+       ░      ░         ░  ░    ░  ░   ░        ░  ░   ░    By ru
                                       ░              ░      
                              ▄████▄   ██░ ██ ▓█████  ▄████▄   ██ ▄█▀▓█████  ██▀███  
                             ▒██▀ ▀█  ▓██░ ██▒▓█   ▀ ▒██▀ ▀█   ██▄█▒ ▓█   ▀ ▓██ ▒ ██▒
@@ -39,7 +39,7 @@ def main():
                             ░ ░       ░  ░  ░   ░  ░░ ░      ░  ░      ░  ░   ░     
                             ░                       ░                               
 
-                            https://github.com/opseec
+                            https://github.com/ru6w
     """))
     with open(file, "r") as f:
         keys = [line.strip() for line in f if line.strip()]
@@ -73,4 +73,5 @@ def main():
         print(f"{g}File: {filename}{re}")
     else:
         print(f"{r}No valid keys found{re}")
+
 main()
