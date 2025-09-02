@@ -51,7 +51,3 @@ Valid keys saved in valids123456.txt
 - LTC: LY1LAYAYyGu2Tx6XFKmBSBxBUo8SQ4QCp4
 - BTC: bc1qk5mx9c3af0kxskc2uyt2004mhk8rgnllll266a
 - ETH: 0xD1FBd6CF494E6b7fb38863eD56B005A95e41079A
-
----
-
-![Menu](img/amex.png)
