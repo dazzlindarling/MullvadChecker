@@ -26,7 +26,7 @@ def main():
 ░ ▒░   ░  ░░▒▓▒ ▒ ▒ ░ ▒░▓  ░░ ▒░▓  ░░ ▐░   ▒▒   ▓▒█░ ▒▒▓  ▒ 
 ░  ░      ░░░▒░ ░ ░ ░ ░ ▒  ░░ ░ ▒  ░░ ░░    ▒   ▒▒ ░ ░ ▒  ▒ 
 ░      ░    ░░░ ░ ░   ░ ░     ░ ░     ░░    ░   ▒    ░ ░  ░ 
-       ░      ░         ░  ░    ░  ░   ░        ░  ░   ░    By ru
+       ░      ░         ░  ░    ░  ░   ░        ░  ░   ░    By dazzlin
                                       ░              ░      
                              ▄████▄   ██░ ██ ▓█████  ▄████▄   ██ ▄█▀▓█████  ██▀███  
                             ▒██▀ ▀█  ▓██░ ██▒▓█   ▀ ▒██▀ ▀█   ██▄█▒ ▓█   ▀ ▓██ ▒ ██▒
@@ -39,7 +39,7 @@ def main():
                             ░ ░       ░  ░  ░   ░  ░░ ░      ░  ░      ░  ░   ░     
                             ░                       ░                               
 
-                            https://github.com/ru6w
+                            https://github.com/dazzlindarling
     """))
     with open(file, "r") as f:
         keys = [line.strip() for line in f if line.strip()]
@@ -75,3 +75,4 @@ def main():
         print(f"{r}No valid keys found{re}")
 
 main()
+
